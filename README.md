@@ -6,7 +6,7 @@ This repository contains the paper-style report and code for the
 project developed for the **Advanced Topics in Physics of Data** course.
 
 The project reproduces and extends the bijection-elimination Bayesian wind tunnel
-introduced by Agarwal et al., investigating whether Transformers learn a
+introduced by Agarwal et al. "[The Bayesian Geometry of Transformer Attention](https://arxiv.org/abs/2512.22471)", investigating whether Transformers learn a
 generalizing Bayesian mechanism or reproduce the Bayesian behaviour required
 by their training distribution.
 
